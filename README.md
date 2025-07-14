@@ -1,2 +1,10 @@
-# QoL_model_reproducibility
-Code for QoL prediction study
+# QoL Prediction Model using XGBoost
+
+This repository provides the final model implementation used in the study:
+
+## Description
+
+This Python script implements the final XGBoost classifier with tuned hyperparameters.  
+The model predicts the global quality of life (QoL) of cancer survivors based on self-management strategies and clinical features.
+
+**Note:** The dataset is not publicly available due to privacy concerns. Only the model code is shared to support reproducibility.
